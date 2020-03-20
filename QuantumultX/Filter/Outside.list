@@ -27,6 +27,12 @@ USER-AGENT,PayPal*,Outside
 HOST-SUFFIX,paypal.com,Outside
 HOST-SUFFIX,paypalobjects.com,Outside
 
+# > Pornhub
+HOST-SUFFIX,phncdn.com,Outside
+HOST-SUFFIX,phprcdn.com,Outside
+HOST-SUFFIX,pornhub.com,Outside
+HOST-SUFFIX,pornhubpremium.com,Outside
+
 # > Spark
 HOST-SUFFIX,api.amplitude.com,Outside
 HOST-SUFFIX,app.smartmailcloud.com,Outside
@@ -72,6 +78,7 @@ HOST-SUFFIX,2o7.net,Outside
 HOST-SUFFIX,4everProxy.com,Outside
 HOST-SUFFIX,4shared.com,Outside
 HOST-SUFFIX,4sqi.net,Outside
+HOST-SUFFIX,91porn.com,Outside
 HOST-SUFFIX,9to5mac.com,Outside
 HOST-SUFFIX,abpchina.org,Outside
 HOST-SUFFIX,accountkit.com,Outside
@@ -82,6 +89,7 @@ HOST-SUFFIX,aerisapi.com,Outside
 HOST-SUFFIX,airtable.com,Outside
 HOST-SUFFIX,alfredapp.com,Outside
 HOST-SUFFIX,allconnected.co,Outside
+HOST-SUFFIX,amazon.co,Outside
 HOST-SUFFIX,amazon.com,Outside
 HOST-SUFFIX,amazonaws.com,Outside
 HOST-SUFFIX,ampproject.com,Outside
@@ -652,7 +660,6 @@ HOST-KEYWORD,dropbox,Outside
 HOST-KEYWORD,facebook,Outside
 HOST-KEYWORD,github,Outside
 HOST-KEYWORD,instagram,Outside
-HOST-KEYWORD,porn,Outside
 HOST-KEYWORD,twitter,Outside
 HOST-KEYWORD,whatsapp,Outside
 HOST-KEYWORD,google,Outside
